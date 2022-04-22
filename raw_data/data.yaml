@@ -1,0 +1,5 @@
+train: C:\Users\zumbr\Desktop\aimbot\raw_data\train\images
+val: C:\Users\zumbr\Desktop\aimbot\raw_data\valid\images
+
+nc: 1
+names: ['enemy']
